@@ -1,0 +1,82 @@
+{
+    "hex": {
+        "value": "#DD5F33",
+        "clean": "DD5F33"
+    },
+    "rgb": {
+        "fraction": {
+            "r": 0.8666666666666667,
+            "g": 0.37254901960784315,
+            "b": 0.2
+        },
+        "r": 221,
+        "g": 95,
+        "b": 51,
+        "value": "rgb(221, 95, 51)"
+    },
+    "hsl": {
+        "fraction": {
+            "h": 0.04313725490196074,
+            "s": 0.7142857142857143,
+            "l": 0.5333333333333333
+        },
+        "h": 16,
+        "s": 71,
+        "l": 53,
+        "value": "hsl(16, 71%, 53%)"
+    },
+    "hsv": {
+        "fraction": {
+            "h": 0.04313725490196074,
+            "s": 0.7692307692307693,
+            "v": 0.8666666666666667
+        },
+        "value": "hsv(16, 77%, 87%)",
+        "h": 16,
+        "s": 77,
+        "v": 87
+    },
+    "name": {
+        "value": "Flame Pea",
+        "closest_named_hex": "#DA5B38",
+        "exact_match_name": false,
+        "distance": 152
+    },
+    "cmyk": {
+        "fraction": {
+            "c": 0,
+            "m": 0.5701357466063348,
+            "y": 0.7692307692307693,
+            "k": 0.1333333333333333
+        },
+        "value": "cmyk(0, 57, 77, 13)",
+        "c": 0,
+        "m": 57,
+        "y": 77,
+        "k": 13
+    },
+    "XYZ": {
+        "fraction": {
+            "X": 0.5267368627450981,
+            "Y": 0.46514039215686276,
+            "Z": 0.2512345098039216
+        },
+        "value": "XYZ(53, 47, 25)",
+        "X": 53,
+        "Y": 47,
+        "Z": 25
+    },
+    "image": {
+        "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=DD5F33",
+        "named": "https://www.thecolorapi.com/id?format=svg&hex=DD5F33"
+    },
+    "contrast": {
+        "value": "#000000"
+    },
+    "_links": {
+        "self": {
+            "href": "/id?hex=DD5F33"
+        }
+    },
+    "_embedded": {}
+}
